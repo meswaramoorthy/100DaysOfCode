@@ -1,0 +1,6 @@
+Day 1 - Python tutorials from PyBites
+Day 2 - Basic python challenges from HackerEarth and PyBites
+Day 3~7 - Python tutorials from kaddle.com and HTML CSS tutorials from freeCodeCamp
+Day 8 - Basic python challenges (i/o) from HackerEarth
+Day 9 - Basic python challenges (i/o) from HackerEarth contd.
+Day 10 - Started Javascript Alogorithm and Data Structures Certification from freeCodeCamp
