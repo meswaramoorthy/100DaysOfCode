@@ -4,3 +4,6 @@ Day 3~7 - Python tutorials from kaddle.com and HTML CSS tutorials from freeCodeC
 Day 8 - Basic python challenges (i/o) from HackerEarth
 Day 9 - Basic python challenges (i/o) from HackerEarth contd.
 Day 10 - Started Javascript Alogorithm and Data Structures Certification from freeCodeCamp
+Day 11 - Contd Javascript Alogorithm and Data Structures Certification from freeCodeCamp
+Day 12 - Completed the Javascript moddule fo JADS Certification from freeCodeCamp
+Day 13 - Contd with some Python tutorials. Completed a simple console dictionary app in Python.
